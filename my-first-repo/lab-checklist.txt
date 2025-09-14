@@ -1,0 +1,7 @@
+LAB CHECKLIST
+[ ] Found Source Control (branch icon)
+[ ] Initialized repository
+[ ] Staged & committed index.js ("Initial commit")
+[ ] Added remote and pushed to main
+[ ] Created and pushed feature-login branch
+[ ] Verified files and branches on GitHub

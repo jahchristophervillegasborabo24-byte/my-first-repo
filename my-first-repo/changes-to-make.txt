@@ -1,0 +1,6 @@
+Make a small change on the `feature-login` branch:
+
+- Open index.js
+- Add another console.log line, e.g.:
+    console.log("Feature branch change!");
+- Save the file, then stage and commit the change.
